@@ -1,5 +1,5 @@
 {
-  "name": "@iharbeck/ngx-virtual-scroller",
+  "name": "@fethcat/ngx-virtual-scroller",
   "version": "16.0.0",
   "peerDependencies": {
     "@tweenjs/tween.js": "^20.0.3"
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iharbeck/ngx-virtual-scroller.git"
+    "url": "git+https://github.com/fethcat/ngx-virtual-scroller.git"
   },
   "keywords": [
     "virtual scroll",
@@ -31,12 +31,12 @@
       "name": "Pavel Kukushkin"
     },
     {
-      "name" : "Ingo Harbeck"
+      "name": "Ingo Harbeck"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iharbeck/ngx-virtual-scroller/issues"
+    "url": "https://github.com/fethcat/ngx-virtual-scroller/issues"
   },
-  "homepage": "https://github.com/iharbeck/ngx-virtual-scroller#readme"
+  "homepage": "https://github.com/fethcat/ngx-virtual-scroller#readme"
 }

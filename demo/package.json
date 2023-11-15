@@ -21,7 +21,7 @@
     "@angular/platform-browser": "14.0.5",
     "@angular/platform-browser-dynamic": "14.0.5",
     "@angular/router": "14.0.5",
-    "@iharbeck/ngx-virtual-scroller": "latest",
+    "@fethcat/ngx-virtual-scroller": "latest",
     "chance": "1.1.8",
     "classlist.js": "1.1.20150312",
     "core-js": "3.23.4",
